@@ -12,7 +12,9 @@
 <div>
   <a href="http://github.com/JosemarSantana68">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosemarSantana68&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosemarSantana68&layout=compact&langs_count=16&theme=dracula"/>
+   -->
 </div>
 
 
@@ -35,7 +37,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framework7/framework7-original.svg">
- 
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
   
 </div>
 
